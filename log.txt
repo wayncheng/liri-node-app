@@ -6,3 +6,15 @@
 .
 .
 .
+
+============================================
+OMDB Response for "Star Wars"
+ | Title: Star Wars: Episode IV - A New Hope
+ | Year: 1977
+ | Rating: 8.7/10
+ | Country: USA
+ | Language: English
+ | Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+ | Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+ | Website: http://www.starwars.com/episode-iv/
+----------------------------------------
